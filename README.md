@@ -2,9 +2,9 @@
 
 ## Sommaire 🤗
 1. [Informations Générale](#Information-Générale)
-2. [Présentation](#technologies)
-3. [YOZAIX](#installation)
-4. [Collaboration](#collaboration)
+2. [Présentation](#Présentation)
+3. [YOZAIX](#YOZAIX)
+4. [Collaboration](#Collaboration)
 5. [FAQs](#faqs)
 
 
@@ -39,7 +39,7 @@ APACHE 2.0
 
 Bonjour,
 
-Je m'appelle Valentin, passioné en Informatique depuis toujours, j'adore crée, innover et coder. 🐊
+Je m'appelle Valentin, passioné en Informatique depuis toujours, j'adore crée, innover et coder gratuitement. 🐊
 
 Code, Configure et développe sur: [SublimeText 3](https://www.sublimetext.com/) & [VisualStudioCode](https://code.visualstudio.com/)
 
@@ -77,35 +77,25 @@ YOZAIX me permet aussi d'avoir une base pour toute mes création. YOZAIX c'est m
 [YOZAIX](https://yozaix.ml/)
 
 
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
 Side information: To use the application in a special environment use ```lorem ipsum``` to start
 ## Collaboration
-***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
+
+Pour toute collaboration et demande de développement rendez vous sur Discord.
+
+
+```bash
+redbutterfly#5764
+```
+
+ou sur
+
+```bash
+https://yozaix.ml/colla/cd/
+```
+Vous pouvez aussi remplir un formulaire manuelle sur: https://forms.gle/wFhdYvwGdxG6uUPVA
+
+⚠️: Le delai de réponse peuvent varier de 1 jours à 7 jours.
+
 ## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+
+En rédaction...
