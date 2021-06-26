@@ -77,7 +77,6 @@ YOZAIX me permet aussi d'avoir une base pour toute mes création. YOZAIX c'est m
 [YOZAIX](https://yozaix.ml/)
 
 
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
 ## Collaboration
 
 Pour toute collaboration et demande de développement rendez vous sur Discord.
