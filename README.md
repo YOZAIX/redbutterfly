@@ -1,7 +1,7 @@
 # REDBUTTERFLY
 
 ## Sommaire 🤗
-1. [Informations Générale](#general-info)
+1. [Informations Générale](#Information-Générale)
 2. [Présentation](#technologies)
 3. [YOZAIX](#installation)
 4. [Collaboration](#collaboration)
@@ -21,6 +21,12 @@ Mon Site Web 💣
 
 ```bash
 https://yozaix.ml/redbutterfly/
+```
+
+Mon mail 📩
+
+```bash
+redbutterfly@yozaix.ml
 ```
 
 ### Screenshot
