@@ -63,7 +63,7 @@ Je code, configure et développe sur:
   
 Passioner aussi par la CyberSécurité 🔐 et la sécurité informatique.
 
-+ de 6 ans de jeu sur Minecraft ! ⛏️
++de 6 ans de jeu sur Minecraft ! ⛏️
 
 ## Technologies
 ***
