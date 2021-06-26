@@ -1,14 +1,28 @@
-# REDBUTTERFLY ![Image text](https://zupimages.net/up/21/25/1avz.png)
+# REDBUTTERFLY
 
-## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
+## Sommaire 🤗
+1. [Informations Générale](#general-info)
+2. [Présentation](#technologies)
+3. [YOZAIX](#installation)
 4. [Collaboration](#collaboration)
 5. [FAQs](#faqs)
-### General Info
+
+
+### Information Générale
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
+
+Mon Discord 🎭
+
+```bash
+redbutterfly#5764
+```
+
+Mon Site Web 💣 
+
+```bash
+https://yozaix.ml/redbutterfly/
+```
+
 ### Screenshot
 ![Image text](https://zupimages.net/up/21/25/1avz.png)
 ## Technologies
